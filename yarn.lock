@@ -1572,6 +1572,11 @@ bluebird@^3.5.1, bluebird@^3.5.5:
   resolved "http://registry.npm.baidu-int.com/bluebird/-/bluebird-3.5.5.tgz#a8d0afd73251effbbd5fe384a77d73003c17a71f"
   integrity sha512-5am6HnnfN+urzt4yfg7IgTbotDjIT/u8AJpEt0sIU9FtXfVeezXAPKswrG+xKUCOYAINpSdgZVDU6QFh+cuH3w==
 
+bmap-wx@0.0.2:
+  version "0.0.2"
+  resolved "http://registry.npm.baidu-int.com/bmap-wx/-/bmap-wx-0.0.2.tgz#7e7734b6d1f3bcd54a6ee4c561cf0316019ce5b8"
+  integrity sha512-CATvJ5/+7xmlJ172g2/cBR4iGpoXRS+5YN9SIqzy9wk0DMM3Y8COLRi4xkRv9jKFkzQHM83Yme41EtAlxV0Qiw==
+
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.1.1, bn.js@^4.4.0:
   version "4.11.8"
   resolved "http://registry.npm.baidu-int.com/bn.js/-/bn.js-4.11.8.tgz#2cde09eb5ee341f484746bb0309b3253b1b1442f"

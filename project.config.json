@@ -4,10 +4,21 @@
 	"description": "今天吃啥呢",
 	"appid": "touristappid",
 	"setting": {
-		"urlCheck": true,
-		"es6": false,
-		"postcss": false,
-		"minified": false
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
 	"simulatorType": "wechat",
